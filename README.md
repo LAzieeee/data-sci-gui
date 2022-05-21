@@ -1,1 +1,1 @@
-# data-sci-gui
+# data-sci-ui
