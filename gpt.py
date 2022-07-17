@@ -5,7 +5,7 @@ import random
 from matplotlib.figure import Figure
 from matplotlib.backends.backend_tkagg import (FigureCanvasTkAgg, 
 NavigationToolbar2Tk)
-df = pd.read_csv("D:\main_project\csv\googleplaystore.csv")
+df = pd.read_csv("enter googlepalystore")
 
 df_nonan = df.fillna("0")
 
