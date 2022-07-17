@@ -295,10 +295,10 @@ def program_graph():
     graph_tk.attributes('-fullscreen', True)
     graph_tk.mainloop()
 
-img = PhotoImage(file='D:\main_project\project\images/tumblr_omdunsURAr1rsvr3vo1_540.png')
-bg_point = Label(main_window,image=img, bg='#FAEBD7')
-bg_point.pack()
-bg_point.place(relx=0.9, rely=0.7, anchor=CENTER)
+# img = PhotoImage(file='D:\main_project\project\images/tumblr_omdunsURAr1rsvr3vo1_540.png')
+# bg_point = Label(main_window,image=img, bg='#FAEBD7')
+# bg_point.pack()
+# bg_point.place(relx=0.9, rely=0.7, anchor=CENTER)
 
 from tkinter.ttk import *
 style_app = Style()
